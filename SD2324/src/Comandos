@@ -1,0 +1,5 @@
+make -> compila o programa
+make clean -> remove *.class
+make run_servidor X=Numero que quiseremos -> executa o servidor
+make run_cliente -> executa cliente
+make run_worker -> executa worker
